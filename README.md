@@ -7,11 +7,11 @@
 </p>
 
 ---
-### 🔍 Profile Stats
+### 🔍 Profile Stats 
 <div align="center">
-  <img src="https://github-stats-alpha.vercel.app/api?username=jumpedoverjumpman&show_icons=true&theme=dracula&title_color=ff79c6&text_color=bd93f9&icon_color=8be9fd&bg_color=282a36" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jumpedoverjumpman&show_icons=true&theme=tokyonight&border_color=7aa2f7&bg_color=1a1b26&title_color=79bbff&icon_color=bb9af7" height="170" alt="GitHub Stats" />
 
-  <img src="https://github-stats-alpha.vercel.app/api/top-langs?username=jumpedoverjumpman&layout=compact&theme=dracula&title_color=ff79c6&text_color=bd93f9&bg_color=282a36" height="170" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jumpedoverjumpman&layout=compact&theme=tokyonight&border_color=7aa2f7&bg_color=1a1b26&title_color=79bbff" height="170" alt="Top Languages" />
 </div>
 
 
