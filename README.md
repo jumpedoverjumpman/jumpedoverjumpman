@@ -10,10 +10,9 @@
 
 ### 🔍 Profile Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jumpedoverjumpman7&show_icons=true&theme=tokyonight&border_color=00FF00" height="170" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jumpedoverjumpman7&layout=compact&theme=tokyonight&border_color=00FF00" height="170" alt="languages chart" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jumpedoverjumpman&show_icons=true&theme=tokyonight&border_color=00FF00" height="170" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jumpedoverjumpman&layout=compact&theme=tokyonight&border_color=00FF00" height="170" alt="languages chart" />
 </div>
-
 ---
 
 ### 🛠 Security Toolkit & Stack
